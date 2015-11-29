@@ -7,7 +7,7 @@ This code demonstrates a flexible plugin Framework using dynamic importation to 
 
 The framework consists of the ``pluginFramework.pluginFramework`` module. Within the module, there are two key classes.
 
-* ``PluginBase`` is used by the framework to identify all potentially plugins. All classes which implement plugins must inherit from this class.
+- ``PluginBase`` is used by the framework to identify all potentially plugins. All classes which implement plugins must inherit from this class.
      ``pluginFramework.PluginBase()``
 
      Methods:
